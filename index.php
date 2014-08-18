@@ -47,7 +47,7 @@
 ?>
 
 <div id="loading">
-Loading...
+Načítání...
 </div>
 <div id="content">
     <div class="help">
@@ -2434,22 +2434,15 @@ dADdy
             </td></tr>
             <tr class="last"><td>
                 <textarea id="textbox">
-!! This application is made for Chrome !!
+!! Tato aplikace je pouze pro Chrome !!
 
 INSTRUCTIONS
 
-1. Click [en] above and set language code.
-2. Click English text in items on left.
-3. Type localized version in this box.
+1. Klikni [en] a změň jazyk.
+2. Klikni English text na věcech vlevo.
+3. Napiš jazyk do tabůlky.
 
-Use SHOW LOCALIZABLE button above to highlight which items can be localized.
-
-Changes are autosaved locally. Use CSV for versioning/backups. Use CLOUD SYNC
-for collaboration (GitHub repo required).
-
-Items with shared terms can be isolated using buttons that appear below.
-
-Use the zoom button above to see exactly how documents will appear in game (Chrome only).
+My jsme takový 3 teplý buzny co se rádi jebou do prdele.
                 </textarea>
             </td></tr>
 
